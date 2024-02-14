@@ -12,6 +12,7 @@ div.mainDiv {
   background-color: white;
   margin: auto;
   margin-top: 30px;
+  position: relative;
 }
 
 div.mainDiv > img {
@@ -84,8 +85,8 @@ div.mainDiv > a {
     padding-left: 77px;
     padding-right: 60px;
     position: absolute;
-    top: 500px;
-    left: 543px;
+    top: 470px;
+    left: 60px;
     border-radius: 10px;
 }
 
@@ -94,7 +95,11 @@ div.mainDiv > a.second {
     background-color: white;
     color: hsl(223, 47%, 23%);
     position: absolute;
-    top: 560px;
-    left: 560px;
+    top: 530px;
+    left: 75px;
     text-decoration: none;
+  }
+
+  @media  only screen and (max-width: 450px) {
+    
   }
