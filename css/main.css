@@ -1,0 +1,15 @@
+/* I will change background-color */
+div.mainDiv{
+    height: 600px;
+    width: 400px;
+    border-radius: 20px;
+    background-color: green;
+    margin: auto;
+    margin-top: 30px;
+}
+
+div.mainDiv > img{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    width: 400px;
+}
