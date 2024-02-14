@@ -102,6 +102,9 @@ div.mainDiv > a.second {
     text-decoration: none;
   }
 
-  @media  only screen and (max-width: 450px) {
-    
+  @media  only screen and (max-width: 500px) {
+    body{
+        background-image: none;
+        background-color: hsl(225, 100%, 94%);
+    }
   }
