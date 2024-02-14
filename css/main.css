@@ -43,24 +43,35 @@ div.mainDiv > div.annualPlan {
   position: relative;
 }
 
-div.mainDiv > div.annualPlan > img{
-    position: absolute;
-    top: 18px;
-    left: 15px;
+div.mainDiv > div.annualPlan > img {
+  position: absolute;
+  top: 18px;
+  left: 15px;
 }
 
-div.mainDiv > div.annualPlan > h4{
-    font-family: "Outfit", sans-serif;
-    position: absolute;
-    left: 80px;
-    color: hsl(223, 47%, 23%);
+div.mainDiv > div.annualPlan > h4 {
+  font-family: "Outfit", sans-serif;
+  position: absolute;
+  left: 80px;
+  color: hsl(223, 47%, 23%);
 }
 
-div.mainDiv > div.annualPlan > p{
-    font-family: "Outfit", sans-serif;
-    position: absolute;
-    left: 80px;
-    top: 30px;
-    color: gray;
-    font-size: small;
+div.mainDiv > div.annualPlan > p {
+  font-family: "Outfit", sans-serif;
+  position: absolute;
+  left: 80px;
+  top: 30px;
+  color: gray;
+  font-size: small;
+}
+
+div.mainDiv > div.annualPlan > a {
+  font-family: "Outfit", sans-serif;
+  background-color: hsl(225, 100%, 98%);
+  border: 0px;
+  color: hsl(245, 75%, 52%);
+  position: absolute;
+  top: 32px;
+  left: 200px;
+  text-decoration: none;
 }
