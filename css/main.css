@@ -4,7 +4,7 @@ body {
   background-color: hsl(225, 100%, 94%);
 }
 
-/* I changed background-color*/
+/* I changed background-color ; I added position*/
 div.mainDiv {
   height: 600px;
   width: 400px;
@@ -76,6 +76,7 @@ div.mainDiv > div.annualPlan > a {
   text-decoration: none;
 }
 
+/* I changed top and left */
 div.mainDiv > a {
     font-family: "Outfit", sans-serif;
     text-decoration: none;
@@ -90,6 +91,7 @@ div.mainDiv > a {
     border-radius: 10px;
 }
 
+/* I changed top and left */
 div.mainDiv > a.second {
     font-family: "Outfit", sans-serif;
     background-color: white;
