@@ -88,3 +88,13 @@ div.mainDiv > a {
     left: 543px;
     border-radius: 10px;
 }
+
+div.mainDiv > a.second {
+    font-family: "Outfit", sans-serif;
+    background-color: white;
+    color: hsl(223, 47%, 23%);
+    position: absolute;
+    top: 560px;
+    left: 560px;
+    text-decoration: none;
+  }
