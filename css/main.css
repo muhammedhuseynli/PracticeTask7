@@ -1,3 +1,9 @@
+body{
+    background-image: url(../task7/assets/images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+}
+
+
 /* I will change background-color */
 div.mainDiv{
     height: 600px;
