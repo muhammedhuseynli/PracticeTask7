@@ -48,3 +48,19 @@ div.mainDiv > div.annualPlan > img{
     top: 18px;
     left: 15px;
 }
+
+div.mainDiv > div.annualPlan > h4{
+    font-family: "Outfit", sans-serif;
+    position: absolute;
+    left: 80px;
+    color: hsl(223, 47%, 23%);
+}
+
+div.mainDiv > div.annualPlan > p{
+    font-family: "Outfit", sans-serif;
+    position: absolute;
+    left: 80px;
+    top: 30px;
+    color: gray;
+    font-size: small;
+}
