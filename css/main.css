@@ -68,10 +68,23 @@ div.mainDiv > div.annualPlan > p {
 div.mainDiv > div.annualPlan > a {
   font-family: "Outfit", sans-serif;
   background-color: hsl(225, 100%, 98%);
-  border: 0px;
   color: hsl(245, 75%, 52%);
   position: absolute;
   top: 32px;
   left: 200px;
   text-decoration: none;
+}
+
+div.mainDiv > a {
+    font-family: "Outfit", sans-serif;
+    text-decoration: none;
+    color: white;
+    background-color: hsl(245, 75%, 52%);
+    padding: 10px;
+    padding-left: 77px;
+    padding-right: 60px;
+    position: absolute;
+    top: 500px;
+    left: 543px;
+    border-radius: 10px;
 }
